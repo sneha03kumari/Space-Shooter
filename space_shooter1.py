@@ -132,13 +132,6 @@ while running:
         screen.blit(bulletimg, (bulletX, bulletY))
         bulletY-=5
 
-
-
-
-
-
-
-
     screen.blit(spaceshipimg, (spaceshipX, spaceshipY))
     score_text()
     pygame.display.update()
