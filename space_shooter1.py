@@ -66,11 +66,6 @@ def gameover():
     img_gameover = font_gameover.render('GAME OVER', True, 'white')
     screen.blit(img_gameover, (200, 250))
 
-
-
-
-
-
 while running:
 
     screen.blit(background,(0,0))
