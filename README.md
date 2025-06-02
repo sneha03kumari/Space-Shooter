@@ -39,7 +39,7 @@ Install Pygame Library:
 ```
 
 Prepare Game Assets:
-Place the following files in the same directory as your game script:
+- Place the following files in the same directory as your game script:
 - back.wav (background music)
 - laser.wav (laser sound effect)
 - explosion.wav (explosion sound effect)
