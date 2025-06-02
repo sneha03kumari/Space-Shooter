@@ -30,7 +30,7 @@ Space Shooter is a popular arcade-style game genre where players control a space
 ## Installation
 Install Python:
 - Make sure Python 3.x is installed on your system.
-Download from:[Documentation](https://www.python.org/downloads/)
+Download from:[ https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 Install Pygame Library:
 - Open command prompt or terminal and run:
@@ -40,18 +40,18 @@ Install Pygame Library:
 
 Prepare Game Assets:
 Place the following files in the same directory as your game script:
-back.wav (background music)
-laser.wav (laser sound effect)
-explosion.wav (explosion sound effect)
-icon.png (game window icon)
-background.png (background image)
-arcade.png (spaceship image)
-enemy.png (alien enemy image)
-bullet.png (bullet image)
+- back.wav (background music)
+- laser.wav (laser sound effect)
+- explosion.wav (explosion sound effect)
+- icon.png (game window icon)
+- background.png (background image)
+- arcade.png (spaceship image)
+- enemy.png (alien enemy image)
+- bullet.png (bullet image)
 
 Run the Game Script:
-Navigate to the directory containing the script and assets.
-Run the Python script:
+- Navigate to the directory containing the script and assets.
+- Run the Python script:
 ```bash
   python space_shooter_game.py
 ```
